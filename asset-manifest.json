@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.d0dd0408.css",
+    "main.js": "/mysite/static/js/main.d5bb37b5.js",
+    "static/js/453.bbd998d3.chunk.js": "/mysite/static/js/453.bbd998d3.chunk.js",
+    "static/media/강아지1.jpg": "/mysite/static/media/강아지1.c5066baea5404c22aba6.jpg",
+    "static/media/강아지2.jpg": "/mysite/static/media/강아지2.39537cd0bd4f274e36bd.jpg",
+    "static/media/강아지.jpg": "/mysite/static/media/강아지.fa79fdf1de9520c04497.jpg",
+    "index.html": "/mysite/index.html",
+    "main.d0dd0408.css.map": "/mysite/static/css/main.d0dd0408.css.map",
+    "main.d5bb37b5.js.map": "/mysite/static/js/main.d5bb37b5.js.map",
+    "453.bbd998d3.chunk.js.map": "/mysite/static/js/453.bbd998d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0dd0408.css",
+    "static/js/main.d5bb37b5.js"
+  ]
+}
