@@ -10,7 +10,7 @@ import AboutMePage from './pages/aboutMe/AboutMePage';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/mysite_front_sample">
+      <BrowserRouter basename="/mysite3">
         <div className="App">
           <header className="app-header">
             { <Header /> }
