@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mysite3/static/css/main.d0dd0408.css",
-    "main.js": "/mysite3/static/js/main.a26b1c20.js",
+    "main.js": "/mysite3/static/js/main.90ceda84.js",
     "static/js/453.bbd998d3.chunk.js": "/mysite3/static/js/453.bbd998d3.chunk.js",
     "static/media/강아지1.jpg": "/mysite3/static/media/강아지1.c5066baea5404c22aba6.jpg",
     "static/media/강아지2.jpg": "/mysite3/static/media/강아지2.39537cd0bd4f274e36bd.jpg",
     "static/media/강아지.jpg": "/mysite3/static/media/강아지.fa79fdf1de9520c04497.jpg",
     "index.html": "/mysite3/index.html",
     "main.d0dd0408.css.map": "/mysite3/static/css/main.d0dd0408.css.map",
-    "main.a26b1c20.js.map": "/mysite3/static/js/main.a26b1c20.js.map",
+    "main.90ceda84.js.map": "/mysite3/static/js/main.90ceda84.js.map",
     "453.bbd998d3.chunk.js.map": "/mysite3/static/js/453.bbd998d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0dd0408.css",
-    "static/js/main.a26b1c20.js"
+    "static/js/main.90ceda84.js"
   ]
 }
